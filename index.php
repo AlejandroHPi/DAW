@@ -10,6 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <div>Hola2</div>
+        <div>Hola developer</div>
     </body>
 </html>
