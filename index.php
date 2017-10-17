@@ -8,6 +8,13 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
+        <style type="text/css">
+            body{
+                color:green;
+                background-color: yellow;
+            }
+            
+        </style>
     </head>
     <body>
         <div>Hola developer</div>
