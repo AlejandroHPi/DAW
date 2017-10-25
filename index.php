@@ -25,8 +25,7 @@ and open the template in the editor.
 			<li><a href="DWES/DWES.html">DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
 			<li><a href="#">DESARROLLO WEB EN ENTORNO CLIENTE </a></li>
 			<li><a href="#">DISENO DE INTERFACES</a></li>
-                        <li><a href="DAW/indexDaw.html">DESPLIEGUE DE APLICACIONES WEB</a></li>
-			
+                        <li><a href="DAW/indexDaw.html">DESPLIEGUE DE APLICACIONES WEB</a></li>			
 		</ul>
 	</body>
 </html>
